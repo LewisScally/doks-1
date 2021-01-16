@@ -12,16 +12,27 @@ menu:
 weight: 110
 toc: true
 ---
-
-## Requirements
+## Specifications
 
 Doks is a [npm](https://www.npmjs.com/) project. Installing npm is pretty simple: download and install [Node.js](https://nodejs.org/) (it includes npm) for your platform. The Long Term Support (LTS) release is recommended for most users, the Current release contains the latest features.
 
-## Start a new Doks project
+## Feature Outline
 
-Create a new site, change directories, install npm packages, and start development server.
+##### Two-Way Audio & Video
 
-### Create a new site
+##### Audio Calls
+
+##### Muting
+
+##### Video Conferencing
+
+##### Screenshare
+
+
+
+
+
+## In-Depth Specifications
 
 {{< btn-copy text="git clone https://github.com/h-enk/doks.git my-doks-site" >}}
 
@@ -29,7 +40,7 @@ Create a new site, change directories, install npm packages, and start developme
 git clone https://github.com/h-enk/doks.git my-doks-site
 ```
 
-### Change directories
+## Technical Limits
 
 {{< btn-copy text="cd my-doks-site" >}}
 
@@ -37,7 +48,7 @@ git clone https://github.com/h-enk/doks.git my-doks-site
 cd my-doks-site
 ```
 
-### Install npm packages
+## Test Results - Performance
 
 {{< btn-copy text="npm install" >}}
 
@@ -45,7 +56,7 @@ cd my-doks-site
 npm install
 ```
 
-### Start development server
+## Test Results - Security
 
 {{< btn-copy text="npm run start" >}}
 
@@ -53,8 +64,10 @@ npm install
 npm run start
 ```
 
+## Comparison with zoom
+
 Doks will start the Hugo development webserver accessible by default at `http://localhost:1313`. Saved changes will live reload in the browser.
 
 ## Other commands
 
-Doks comes with commands for common tasks. [Commands →]({{< ref "commands" >}})
+Doks comes with commands for common tasks. \[Commands →]\({{< ref "commands" >}})
