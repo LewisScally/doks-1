@@ -10,12 +10,6 @@ weight = 60
 identifier = "help"
 url = "/docs/help/"
 
-[[docs]]
-name = "lorem-ipsum"
-weight = 0
-identifier = "lorem-ipsum"
-url = "lorem-ipsum"
-
 [[main]]
 name = "Docs"
 url = "/docs/prologue/introduction/"
