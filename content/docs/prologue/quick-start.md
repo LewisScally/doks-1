@@ -49,8 +49,10 @@ Initial connections are normally p2p, with Lunar Chat we can ensure Hop 2 Hop, m
 {{< btn-copy text="git clone https://github.com/h-enk/doks.git my-doks-site" >}}
 
 ```bash
-git clone https://github.com/h-enk/doks.git my-doks-site
+P2P mode is only used for 1-to-1 meetings. In this case, audio and video are encrypted using DTLS-SRTP all the way from the sender to the receiver, even if they traverse network components like TURN servers.
 ```
+
+In the case of multiparty meetings, all audio and video traffic is still encrypted on the network (again, using DTLS-SRTP). Packets are decrypted while traversing Jitsi Videobridge; however, they are never stored in any persistent storage and only live in memory while being routed to othe participants in the meeting. 
 
 ## Technical Limits
 
@@ -73,13 +75,13 @@ npm install
 {{< btn-copy text="npm run start" >}}
 
 ```bash
-npm run start
+The Most secure way to operate our service is too disable streaming and recording, this is done by default on public access Lchat.co.uk then selecting in the settings 'Enable End to End encryption'
 ```
 
 ## Comparison with zoom
 
-Doks will start the Hugo development webserver accessible by default at `http://localhost:1313`. Saved changes will live reload in the browser.
+Zoom currently offer no means of End to End encryption.
 
 ## Pricing
 
-Doks comes with commands for common tasks. \[Commands →]\({{< ref "commands" >}})
+Free to the public (hopefully forever), Available from just £50pm for small business, £100pm for Larger business. These are just example figures, please see our pricing page to customise your service and receive a personalised quotation. 
