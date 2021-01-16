@@ -49,7 +49,7 @@ Check scripts for errors:
 npm run lint:scripts [-- --fix]
 ```
 
-## styles
+## Non-Profit Organization Management
 
 Check styles for errors:
 
