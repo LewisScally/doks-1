@@ -1,8 +1,8 @@
 ---
 title: 'Modern Video calling, in the web, secure and free'
 description: >-
-  Doks is a Hugo theme helping you build modern documentation websites that are
-  secure, fast, and SEO-ready — by default.
+  Read for your business needs, free to the public. Bring back community, and
+  face to face conversations
 lead: >-
   Video chat with friends, family, or colleagues. In fact, invite everyone you
   know. L Chat is a fully encrypted. Built for reliable video calls and
