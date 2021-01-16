@@ -28,9 +28,9 @@ Doks is a [npm](https://www.npmjs.com/) project. Installing npm is pretty simple
 
 ##### Screenshare
 
+##### Attendee Management - Set Password, enable lobby, and  Set Usernames\*
 
-
-
+##### Meeting Initiation and Joining
 
 ## In-Depth Specifications
 
