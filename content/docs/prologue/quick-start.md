@@ -14,7 +14,7 @@ toc: true
 ---
 ## Specifications
 
-Doks is a [npm](https://www.npmjs.com/) project. Installing npm is pretty simple: download and install [Node.js](https://nodejs.org/) (it includes npm) for your platform. The Long Term Support (LTS) release is recommended for most users, the Current release contains the latest features.
+Initial connections are normally p2p, with L Chat we can ensure Hop 2 Hop, meaning that whe you conenct tyo a call, yo do not connect to that user but instead the server which hosts Lchat. Or in the case of purchasing a custom license, your own server instance, or even local server. L chat can be setup on a local network, or deployed to the cloud and accessible globally. Hop 2 hop ensures that, only the security of the server/host, and those maintaining it are in question regards to who may view calls and potential info. By enabling End to End encryption, even if the host server or local network were to be compromised, any information pertaining calls would be undecipherable 
 
 ## Feature Outline
 
@@ -28,9 +28,21 @@ Doks is a [npm](https://www.npmjs.com/) project. Installing npm is pretty simple
 
 ##### Screenshare
 
-##### Attendee Management - Set Password, enable lobby, and  Set Usernames\*
+##### Page embed\*, Youtube sharing\*, Session recording\*
 
-##### Meeting Initiation and Joining
+##### Slideshow, and presentation media embed\*
+
+##### Attendee Management - Set Password, enable lobby, pay gate\*, and  Set Usernames\*
+
+##### Meeting Initiation, share and join management
+
+##### Private Text Chat
+
+##### Instant Messaging
+
+#####
+
+##### \*Available at additional cost to business users, included in certain customisation packages, see pricing.lchat.co.uk
 
 ## In-Depth Specifications
 
