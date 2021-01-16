@@ -14,7 +14,7 @@ toc: true
 ---
 ## Specifications
 
-Initial connections are normally p2p, with L Chat we can ensure Hop 2 Hop, meaning that whe you conenct tyo a call, yo do not connect to that user but instead the server which hosts Lchat. Or in the case of purchasing a custom license, your own server instance, or even local server. L chat can be setup on a local network, or deployed to the cloud and accessible globally. Hop 2 hop ensures that, only the security of the server/host, and those maintaining it are in question regards to who may view calls and potential info. By enabling End to End encryption, even if the host server or local network were to be compromised, any information pertaining calls would be undecipherable 
+Initial connections are normally p2p, with Lunar Chat we can ensure Hop 2 Hop, meaning that when you connect to a call, yo do not connect to that user but instead the server which hosts Lunar chat. Or in the case of purchasing a custom license, your own server instance, or even local server. L chat can be setup on a local network, or deployed to the cloud and accessible globally. Hop 2 hop ensures that, only the security of the server/host, and those maintaining it are in question regards to who may view calls and potential info. By enabling End to End encryption, even if the host server or local network were to be compromised, any information pertaining calls would be undecipherable
 
 ## Feature Outline
 
