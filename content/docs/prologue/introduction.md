@@ -20,8 +20,7 @@ menu:
 weight: 100
 toc: true
 ---
-
-## Get started
+## Features
 
 There are two main ways to get started with Doks:
 
@@ -35,32 +34,32 @@ Step-by-step instructions on how to start a new Doks project. [Tutorial →](htt
 
 {{< alert icon="👉" text="The Quick Start is intended for intermediate to advanced users." >}}
 
-One page summary of how to start a new Doks project. [Quick Start →]({{< ref "quick-start" >}})
+One page summary of how to start a new Doks project. \[Quick Start →]\({{< ref "quick-start" >}})
 
-## Go further
+## How it can be used for your business
 
 Recipes, Reference Guides, Extensions, and Showcase.
 
-### Recipes
+### Examples uses
 
 Get instructions on how to accomplish common tasks with Doks. [Recipes →](https://getdoks.org/docs/recipes/project-configuration/)
 
-### Reference Guides
+### Why Video
 
 Learn how to customize Doks to fully make it your own. [Reference Guides →](https://getdoks.org/docs/reference-guides/security/)
 
-### Extensions
+### Can it be integrated
 
 Get instructions on how to add even more to Doks. [Extensions →](https://getdoks.org/docs/extensions/add-google-fonts/)
 
-### Showcase
+### How can it suit our needs
 
 See what others have build with Doks. [Showcase →](https://getdoks.org/showcase/neutrino-oscillations/)
 
-## Contributing
+## See business pricing
 
 Find out how to contribute to Doks. [Contributing →](https://getdoks.org/docs/contributing/how-to-contribute/)
 
-## Help
+## Help and support for users
 
-Get help on Doks. [Help →]({{< ref "how-to-update" >}})
+Get help on Doks. \[Help →]\({{< ref "pricing.lchat.co.uk" >}})
