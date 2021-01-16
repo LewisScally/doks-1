@@ -26,4 +26,4 @@ Built by OnDevs, powered by Netlify, and opensource.
 alert = false
 alertText = 'Like Doks? <a class="alert-link" href="https://github.com/h-enk/doks/stargazers">Star on GitHub</a>. Thanks!</a>'
 docsRepo = ""
-editPage = false
+editPage = true
