@@ -14,7 +14,7 @@ toc: true
 ---
 ## Specifications
 
-Initial connections are normally p2p, with Lunar Chat we can ensure Hop 2 Hop, meaning that when you connect to a call, yo do not connect to that user but instead the server which hosts Lunar chat. Or in the case of purchasing a custom license, your own server instance, or even local server. L chat can be setup on a local network, or deployed to the cloud and accessible globally. Hop 2 hop ensures that, only the security of the server/host, and those maintaining it are in question regards to who may view calls and potential info. By enabling End to End encryption, even if the host server or local network were to be compromised, any information pertaining calls would be undecipherable
+Initial connections are normally p2p, with Lunar Chat we can ensure Hop 2 Hop, meaning that when you connect to a call, yo do not connect to that user but instead the server which hosts Lunar chat. Or in the case of purchasing a custom license, your own server instance, or even local server. L chat can be setup on a local network, or deployed to the cloud and accessible globally. Hop 2 hop ensures that, only the security of the server/host, and those maintaining it are in question regards to who may view calls and potential info. By enabling End to End encryption, even if the host server or local network were to be compromised, any information pertaining calls would be undecipherable.
 
 ## Feature Outline
 
@@ -52,7 +52,7 @@ Initial connections are normally p2p, with Lunar Chat we can ensure Hop 2 Hop, m
 P2P mode is only used for 1-to-1 meetings. In this case, audio and video are encrypted using DTLS-SRTP all the way from the sender to the receiver, even if they traverse network components like TURN servers.
 ```
 
-In the case of multiparty meetings, all audio and video traffic is still encrypted on the network (again, using DTLS-SRTP). Packets are decrypted while traversing Jitsi Videobridge; however, they are never stored in any persistent storage and only live in memory while being routed to othe participants in the meeting. 
+In the case of multiparty meetings, all audio and video traffic is still encrypted on the network (again, using DTLS-SRTP). Packets are decrypted while traversing Jitsi Videobridge; however, they are never stored in any persistent storage and only live in memory while being routed to othe participants in the meeting.
 
 ## Technical Limits
 
@@ -84,4 +84,4 @@ Zoom currently offer no means of End to End encryption.
 
 ## Pricing
 
-Free to the public (hopefully forever), Available from just £50pm for small business, £100pm for Larger business. These are just example figures, please see our pricing page to customise your service and receive a personalised quotation. 
+Free to the public (hopefully forever), Available from just £50pm for small business, £100pm for Larger business. These are just example figures, please see our pricing page to customise your service and receive a personalised quotation.
