@@ -1,5 +1,5 @@
 ---
-title: Modern Documentation Theme
+title: 'Modern Video calling, in the web, secure and free'
 description: >-
   Doks is a Hugo theme helping you build modern documentation websites that are
   secure, fast, and SEO-ready — by default.
