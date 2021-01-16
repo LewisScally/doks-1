@@ -17,10 +17,9 @@ menu:
 weight: 130
 toc: true
 ---
+{{< alert icon="💡" text="You can request a free demo of our services for your business" >}}
 
-{{< alert icon="💡" text="You can change the commands in the scripts section of `./package.json`." >}}
-
-## start
+## Hospitality
 
 Start local development server:
 
@@ -30,7 +29,7 @@ Start local development server:
 npm run start
 ```
 
-## lint
+## Education
 
 Check scripts, styles, and markdown for errors:
 
@@ -40,7 +39,7 @@ Check scripts, styles, and markdown for errors:
 npm run lint
 ```
 
-### scripts
+## Finance
 
 Check scripts for errors:
 
@@ -50,7 +49,7 @@ Check scripts for errors:
 npm run lint:scripts [-- --fix]
 ```
 
-### styles
+## styles
 
 Check styles for errors:
 
