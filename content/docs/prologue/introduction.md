@@ -62,4 +62,4 @@ Find out how to contribute to Doks. [Contributing →](https://getdoks.org/docs/
 
 ## Help and support for users
 
-Get help on L Chat\[Help →]\({{< ref "pricing.lchat.co.uk" >}})
+Get help on Doks. [Help →]({{< ref "how-to-update" >}})
