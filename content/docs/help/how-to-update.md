@@ -1,14 +1,18 @@
 ---
-title: "How to Update"
-description: "Regularly update the installed npm packages to keep your Doks website stable, usable, and secure."
-lead: "Regularly update the installed npm packages to keep your Doks website stable, usable, and secure."
-date: 2020-11-12T13:26:54+01:00
-lastmod: 2020-11-12T13:26:54+01:00
+title: How to Start a Call
+description: >-
+  Regularly update the installed npm packages to keep your Doks website stable,
+  usable, and secure.
+lead: >-
+  Regularly update the installed npm packages to keep your Doks website stable,
+  usable, and secure.
+date: '2020-11-12T13:26:54+01:00'
+lastmod: '2020-11-12T13:26:54+01:00'
 draft: false
 images: []
-menu: 
+menu:
   docs:
-    parent: "help"
+    parent: help
 weight: 610
 toc: true
 ---
