@@ -42,9 +42,7 @@ Improve, and accelerate your business. From sales process, to internal meetings,
 
 ### Tutorial - It's all in the name
 
-{{< alert icon="👉" text="The Tutorial is intended for novice to intermediate users." >}}
-
-[B](https://getdoks.org/tutorial/introduction/)egin by entering a room name on the home page, and clicking go/hitting enter.
+{{< alert icon="👉" text="The Tutorial is intended for novice to intermediate users. Begin by entering a room name on the home page, and clicking go/hitting enter.
 
 You are entered into a public access room, by visiting 'www.lchat.co.uk/YOURROOMNAME
 
