@@ -60,7 +60,7 @@ Unlimited one-on-one Meetings
 
 {{< alert icon="👉" text="The Tutorial is intended for novice to intermediate users." >}}
 
-[B](https://getdoks.org/tutorial/introduction/)egin by entering a room name on the home page, and clicking go/hitting enter. 
+[B](https://getdoks.org/tutorial/introduction/)egin by entering a room name on the home page, and clicking go/hitting enter.
 
 You are entered into a public access room, by visiting 'www.lchat.co.uk/YOURROOMNAME
 
@@ -70,9 +70,9 @@ To prevent unwanted guest, navigate to the bottom right of the screen.
 
 *   on mobile you may have to tap the screen so that the mobile toolbar appears
 
-Select the settings 'gear' symbol
+Select the settings 'Shield' symbol
 
-*   Select 
+*   Select under password, replace 'none' with your chosen password. Anyone attempting to join will now be required to enter a password. 
 
 ### Quick Start
 
