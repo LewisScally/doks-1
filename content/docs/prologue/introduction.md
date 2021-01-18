@@ -94,7 +94,31 @@ Unlimited one-on-one Meetings[](https://getdoks.org/docs/contributing/how-to-con
 
 [](https://getdoks.org/docs/contributing/how-to-contribute/)Small Business
 
+Great for Small Teams
+
+£119.90 /year/license
+
+Host up to 100 participants
+
+Group meetings for up to 30 hours
+
+Social Media Streaming
+
+1 GB Cloud Recording (per license)
+
 Large Business
+
+Host up to 300 participants
+
+Single Sign-On
+
+Recording Transcripts
+
+Managed Domains
+
+Company Branding
+
+All features included in Pro and more
 
 Paid Extras
 
@@ -110,7 +134,7 @@ Paid Extras
 
 *   Custom URL
 
-*   Your own business name, logo, colors, and images. 
+*   Your own business name, logo, colors, and images.
 
 ## Help and support for users
 
