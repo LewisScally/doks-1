@@ -62,19 +62,19 @@ Improve, and accelerate your business. From sales process, to internal meetings,
 
 ### Examples uses
 
-Get instructions on how to accomplish common tasks with Doks. [Recipes →](https://getdoks.org/docs/recipes/project-configuration/)
+[](https://getdoks.org/docs/recipes/project-configuration/)Examples
 
 ### Why Video
 
-Learn how to customize Doks to fully make it your own. [Reference Guides →](https://getdoks.org/docs/reference-guides/security/)
+[V](https://getdoks.org/docs/reference-guides/security/)ideo uses and benefits
 
-### Can it be integrated
+### Integrations
 
-Get instructions on how to add even more to Doks. [Extensions →](https://getdoks.org/docs/extensions/add-google-fonts/)
+[I](https://getdoks.org/docs/extensions/add-google-fonts/)ntegrations
 
 ### How can it suit our needs
 
-See what others have build with Doks. [Showcase →](https://getdoks.org/showcase/neutrino-oscillations/)
+[C](https://getdoks.org/showcase/neutrino-oscillations/)ustom options and examples
 
 ## See business pricing
 
@@ -90,7 +90,27 @@ Host up to 100 participants
 
 Group meetings for up to 40 minutes
 
-Unlimited one-on-one Meetings [Contributing →](https://getdoks.org/docs/contributing/how-to-contribute/)
+Unlimited one-on-one Meetings[](https://getdoks.org/docs/contributing/how-to-contribute/)
+
+[](https://getdoks.org/docs/contributing/how-to-contribute/)Small Business
+
+Large Business
+
+Paid Extras
+
+*   Recording of session
+
+*   Session transcription
+
+*   Live stream to Facebook
+
+*   Live stream to Youtube
+
+*   Integrate to your website, or host on your domain
+
+*   Custom URL
+
+*   Your own business name, logo, colors, and images. 
 
 ## Help and support for users
 
