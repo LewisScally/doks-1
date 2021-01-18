@@ -118,14 +118,6 @@ In the case of \*\*multiparty meetings, all audio and video traffic is still enc
 
 ###### 256 concurrent connection. Unlike Zoom it is possible to manage 256 video and audio guests to a conference. There will however be technical limits on the individual users hardware. For services where interaction of all participants is necessary, we can configure this as a custom solution to hand 1000 users to occupy the same room. If it is then desired to share the conference to viewers who have no audio or video input. We can configure this with modern day streaming providers to stream to more than 100 million users at one time.
 
-## Test Results - Performance
-
-{{< btn-copy text="npm install" >}}
-
-```bash
-npm install
-```
-
 ## Test Results - Security
 
 *Best in class for security, British based, secure technology, more secure than competitors*
@@ -134,9 +126,19 @@ npm install
 
 ## Comparison with zoom
 
-Zoom currently offer no means of End to End encryption.
+Zoom currently offer no means of End to End encryption. **- ***i**t might be considered military grade, but we believe security is important***
 
-## Unbeatable Analytics
+Available on your own secure server unlike zoom
+
+No 40 min call limit unlike zoom
+
+British unlike zoom
+
+Actively utilises, and contributes to opensource
+
+15% profit goes to opensource plus voluntary staff hours
+
+## **Unbeatable Analytics**
 
 Safe statistical reporting. Get in depth business info on your calls, without compromising any personal information. Through innovative analytical reporting.
 
