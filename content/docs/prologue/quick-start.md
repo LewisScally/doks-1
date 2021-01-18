@@ -144,7 +144,7 @@ Zoom currently offer no means of End to End encryption.
 
 ## Unbeatable Analytics
 
-Safe statistical reporting. Get in depth business info on your calls, without compromising any personal information. Through innovative analytical reporting. 
+Safe statistical reporting. Get in depth business info on your calls, without compromising any personal information. Through innovative analytical reporting.
 
 Reports for the following statistics (and more):
 
@@ -170,7 +170,7 @@ Reports for the following statistics (and more):
 
 *   The number of ICE sessions established over UDP or TCP.
 
-## In Depth Look at stat reporting 
+## In Depth Look at stat reporting
 
 *   current_timestamp - The value is the date and time when the statistics are generated (in UTC).
 
