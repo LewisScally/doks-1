@@ -54,15 +54,15 @@ Select the settings 'Shield' symbol
 
 *   Select under password, replace 'none' with your chosen password. Anyone attempting to join will now be required to enter a password.
 
-### Quick Start
 
-{{< alert icon="👉" text="The Quick Start is intended for intermediate to advanced users." >}}
-
-One page summary of how to start a new Doks project. \[Quick Start →]\({{< ref "quick-start" >}})
 
 ## How it can be used for your business
 
-Recipes, Reference Guides, Extensions, and Showcase.
+All features you see can be turned on or off, ability to mute all participants, enable ability to kick participant, enable guests or only allowed approved access via email and password login#
+
+Improve, and accelerate your business. From sales process, to internal meetings, the benefits of video are vast.
+
+
 
 ### Examples uses
 
