@@ -22,6 +22,10 @@ toc: true
 
 Then click "Go."
 
-However, there is one super important detail you must still do: add a password to the call. This is a straightforward step, and prevents unwanted zoombombers from crashing your call. To add a password — right after you've started the call — click the "shield" icon in the bottom-right corner of the screen. 
+However, there is one super important detail you must still do: add a password to the call. This is a straightforward step, and prevents unwanted zoombombers from crashing your call. To add a password — right after you've started the call — click the "shield" icon in the bottom-right corner of the screen.
 
-Select "add password," and then enter your desired password in the blank field (please do not use "password" as your password). Press enter, and your Jitsi call is now password protected. 
+Select "add password," and then enter your desired password in the blank field (please do not use "password" as your password). Press enter, and your l Chat call is now password protected.
+
+Because a video call isn't a video call without other participants, you need to invite them to join you. L Chat makes this process as easy as sending your friends the meeting URL. 
+
+So, in the case of the above example, you would send your friends lchat.co.uk/ournewmushroomshow 
