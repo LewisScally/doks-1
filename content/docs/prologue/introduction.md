@@ -22,27 +22,25 @@ toc: true
 ---
 ## Features
 
-\-Reliable
+*   Reliable
 
-\-secure
+*   Secure
 
-\-can be payment gated
+*   Can be payment gated
 
-\-can have user access controls
+*   Can have user access controls
 
-\-can be embedded with additional materials and info like presentations
+*   Can be embedded with additional materials and info like presentations
 
-\-can be setup on local system or deployed globally
+*   Can be setup on local system or deployed globally
 
-\-Ability for participants to raise their hand to speak
+*   Ability for participants to raise their hand to speak
 
 all features you see can be turned on or off, ability to mute all participants, enable ability to kick participant, enable guests or only allowed approved access via email and password login#
 
 Improve, and accelerate your business. From sales process, to internal meetings, the benefits of video are vast.
 
 ### Tutorial - It's all in the name
-
-
 
 You are entered into a public access room, by visiting 'www.lchat.co.uk/YOURROOMNAME
 
