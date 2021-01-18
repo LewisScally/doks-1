@@ -48,7 +48,7 @@ You can share this with others and they will automatically be able to join.
 
 To prevent unwanted guest, navigate to the bottom right of the screen.
 
-*   on mobile you may have to tap the screen so that the mobile toolbar appears
+*   On mobile you may have to tap the screen so that the mobile toolbar appears
 
 Select the settings 'Shield' symbol
 
