@@ -142,6 +142,82 @@ The Most secure way to operate our service is too disable streaming and recordin
 
 Zoom currently offer no means of End to End encryption.
 
-## Pricing
+## Unbeatable Analytics
 
-Free to the public (hopefully forever), Available from just £50pm for small business, £100pm for Larger business. These are just example figures, please see our pricing page to customise your service and receive a personalised quotation.
+Safe statistical reporting. Get in depth business info on your calls, without compromising any personal information. Through innovative analytical reporting. 
+
+Reports for the following statistics (and more):
+
+*   Number of threads used by the JVM.
+
+*   Current bitrate, packet rate, and packet loss rate.
+
+*   Current number of audio and video channels, and conferences.
+
+*   Current estimated number of video streams.
+
+*   The size of the largest conference in progress.
+
+*   The distribution of the sizes of the conferences currently in progress.
+
+*   Aggregates of RTT and jitter across all users.
+
+*   The total number of created, completed, failed and partially failed conferences.
+
+*   The total number of messages sent and received through WebRTC data channels and COLIBRI web sockets.
+
+*   The total duration of all completed conferences.
+
+*   The number of ICE sessions established over UDP or TCP.
+
+## In Depth Look at stat reporting 
+
+*   current_timestamp - The value is the date and time when the statistics are generated (in UTC).
+
+*   threads - The number of Java threads that the video bridge is using.
+
+*   bit_rate_download / bit_rate_upload - the total incoming and outgoing (respectively) bitrate for the video bridge in kilobits per second.
+
+*   packet_rate_download / packet_rate_upload - the total incoming and outgoing (respectively) packet rate for the video bridge in packets per second.
+
+*   loss_rate_download - The fraction of lost incoming RTP packets. This is based on RTP sequence numbers and is relatively accurate.
+
+*   loss_rate_upload - The fraction of lost outgoing RTP packets. This is based on incoming RTCP Receiver Reports, and an attempt to subtract the fraction of packets that were not sent (i.e. were lost before they reached the bridge). Further, this is averaged over all streams of all users as opposed to all packets, so it is not correctly weighted. This is not accurate, but may be a useful metric nonetheless.
+
+*   rtp_loss - Deprecated. The sum of loss_rate_download and loss_rate_upload.
+
+*   jitter_aggregate - Experimental. An average value (in milliseconds) of the jitter calculated for incoming and outgoing streams. This hasn't been tested and it is currently not known whether the values are correct or not.
+
+*   rtt_aggregate - An average value (in milliseconds) of the RTT across all streams.
+
+*   largest_conference - The number of participants in the largest conference currently hosted on the bridge.
+
+*   conference_sizes - The distribution of conference sizes hosted on the bridge. It is an array of integers of size 15, and the value at (zero-based) index i is the number of conferences with i participants. The last element (index 14) also includes conferences with more than 14 participants.
+
+*   audiochannels - The current number of audio channels.
+
+*   videochannels - The current number of video channels.
+
+*   conferences - The current number of conferences.
+
+*   participants - The current number of participants.
+
+*   videostreams - An estimation of the number of current video streams forwarded by the bridge.
+
+*   total_loss_controlled_participant_seconds -- The total number of participant-seconds that are loss-controlled.
+
+*   total_loss_limited_participant_seconds -- The total number of participant-seconds that are loss-limited.
+
+*   total_loss_degraded_participant_seconds -- The total number of participant-seconds that are loss-degraded.
+
+*   total_conference_seconds - The sum of the lengths of all completed conferences, in seconds.
+
+*   total_conferences_created - The total number of conferences created on the bridge.
+
+*   total_failed_conferences - The total number of failed conferences on the bridge. A conference is marked as failed when all of its channels have failed. A channel is marked as failed if it had no payload activity.
+
+*   total_partially_failed_conferences - The total number of partially failed conferences on the bridge. A conference is marked as partially failed when some of its channels has failed. A channel is marked as failed if it had no payload activity.
+
+*   total_data_channel_messages_received / total_data_channel_messages_sent - The total number messages received and sent through data channels.
+
+*   total_colibri_web_socket_messages_received / total_colibri_web_socket_messages_sent - The total number messages received and sent through COLIBRI web sockets.
