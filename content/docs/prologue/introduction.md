@@ -88,7 +88,7 @@ Sign Up, It's Free
 
 Host up to 100 participants
 
-Group meetings for up to 40 minutes
+Group meetings currently are unlimited, this may be refactored soon. So take full advantage while you can.
 
 Unlimited one-on-one Meetings[](https://getdoks.org/docs/contributing/how-to-contribute/)
 
