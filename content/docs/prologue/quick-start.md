@@ -116,10 +116,8 @@ In the case of \*\*multiparty meetings, all audio and video traffic is still enc
 
 ## Technical Limits
 
-{{< btn-copy text="cd my-doks-site" >}}
-
 ```bash
-cd my-doks-site
+256 concurrent connection. Unlike Zoom it is possible to manage 256 video and audio guests to a conference. There will however be technical limits on the individual users hardware. For services where interaction of all participants is necessary, we can configure this as a custom solution to hand 1000 users to occupy the same room. If it is then desired to share the conference to viewers who have no audio or video input. We can configure this with modern day streaming providers to stream to more than 100 million users at one time.
 ```
 
 ## Test Results - Performance
