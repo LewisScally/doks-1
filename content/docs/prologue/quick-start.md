@@ -126,7 +126,7 @@ In the case of \*\*multiparty meetings, all audio and video traffic is still enc
 
 ## Comparison with zoom
 
-Zoom currently offer no means of End to End encryption. **- ***i**t might be considered military grade, but we believe security is important***
+Zoom currently offer no means of End to End encryption. **- *it might be considered military grade, but we believe security is important***
 
 Available on your own secure server unlike zoom
 
