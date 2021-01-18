@@ -26,7 +26,15 @@ toc: true
 
 *   Secure
 
-*   Can be payment gated
+*
+
+*   Ability for participants to raise their hand to speak
+
+## Features For Business
+
+All features you see can be turned on or off, ability to mute all participants, enable ability to kick participant, enable guests or only allowed approved access via email and password login.
+
+Can be payment gated
 
 *   Can have user access controls
 
@@ -34,11 +42,9 @@ toc: true
 
 *   Can be setup on local system or deployed globally
 
-*   Ability for participants to raise their hand to speak
+*
 
-All features you see can be turned on or off, ability to mute all participants, enable ability to kick participant, enable guests or only allowed approved access via email and password login.
-
-Improve, and accelerate your business. From sales process, to internal meetings, the benefits of video are vast.
+Improve, and accelerate your business. Sales process, to internal meetings, the benefits of video are vast.
 
 ### Tutorial - It's all in the name
 
