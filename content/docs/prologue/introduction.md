@@ -94,17 +94,17 @@ Unlimited one-on-one Meetings[](https://getdoks.org/docs/contributing/how-to-con
 
 [](https://getdoks.org/docs/contributing/how-to-contribute/)Small Business
 
-Great for Small Teams
+*   Great for Small Teams
 
-£119.90 /year/license
+*   £119.90 /year/license
 
-Host up to 100 participants
+*   Host up to 100 participants
 
-Group meetings for up to 30 hours
+*   Group meetings for up to 30 hours
 
-Social Media Streaming
+*   Social Media Streaming
 
-1 GB Cloud Recording (per license)
+*   1 GB Cloud Recording (per license)
 
 Large Business
 
