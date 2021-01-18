@@ -48,7 +48,7 @@ Improve, and accelerate your business. Sales process, to internal meetings, the 
 
 ### Tutorial - It's all in the name
 
-You are entered into a public access room, by visiting 'www.lchat.co.uk/YOURROOMNAME
+You are entered into a public access room, by visiting 'www.lchat.co.uk/YOURROOMNAME'
 
 You can share this with others and they will automatically be able to join.
 
