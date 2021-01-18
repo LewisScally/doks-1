@@ -26,7 +26,23 @@ toc: true
 
 *   Secure
 
-*
+*   Two-Way Audio & Video
+
+*   Audio Calls
+
+*   Muting
+
+*   Video Conferencing
+
+*   Screenshare
+
+<!---->
+
+*   Meeting Initiation, share and join management
+
+*   Private Text Chat
+
+*   Instant Messaging
 
 *   Ability for participants to raise their hand to speak
 
@@ -42,7 +58,11 @@ Can be payment gated
 
 *   Can be setup on local system or deployed globally
 
-*
+*   Page embed*, Youtube sharing*, Session recording*
+
+*   Slideshow, and presentation media embed*
+
+*   Attendee Management - Set Password, enable lobby, pay gate*, and  Set Usernames*
 
 Improve, and accelerate your business. Sales process, to internal meetings, the benefits of video are vast.
 
