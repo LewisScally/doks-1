@@ -14,7 +14,7 @@ menu:
 weight: 610
 toc: true
 ---
-### To begin, head to the LChat call page.
+#### To begin, head to the LChat call page.
 
 ##### **Once there, under the text, enter your desired meeting name.**
 
