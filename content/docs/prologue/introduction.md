@@ -22,27 +22,23 @@ toc: true
 ---
 ## Features
 
-Reliable
+\-Reliable
 
-secure
+\-secure
 
-can be payment gated
+\-can be payment gated
 
-can have user access controls
+\-can have user access controls
 
-can be embedded with addtional amterials and info like presentations
+\-can be embedded with additional materials and info like presentations
 
-can be setup on local system or deployed globally
+\-can be setup on local system or deployed globally
 
-Ability for particants to raise their hand to speak
+\-Ability for particants to raise their hand to speak
 
-all feautres you see can be tunrned on or off, ability to mute all partiticapnts, enabel ability to kick participant, enable guests or oly allowed aproved acess via email and password login#
+all features you see can be turned on or off, ability to mute all participants, enable ability to kick participant, enable guests or only allowed approved access via email and password login#
 
-Improve, and accelrate your business. From sales process, to internal meetinmgs, the benefits of video are vast.
-
-
-
-
+Improve, and accelerate your business. From sales process, to internal meetings, the benefits of video are vast.
 
 ### Tutorial - It's all in the name
 
