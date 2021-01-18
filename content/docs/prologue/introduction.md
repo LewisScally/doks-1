@@ -118,8 +118,6 @@ Managed Domains
 
 Company Branding
 
-All features included in Pro and more
-
 Paid Extras
 
 *   Recording of session
@@ -136,6 +134,8 @@ Paid Extras
 
 *   Your own business name, logo, colors, and images.
 
-## Help and support for users
+Still don't see the feature you require? Contact sales, and submit a feature request if it is not listed as a custom paid service. See those below. 
 
-Get help on Doks. \[Help →]\({{< ref "how-to-update" >}})
+## Custom paid solutions
+
+Sometimes you just have  niche use, or a complex one. We understand. That is why we will provide a free 15 minute consultation to anyone who requests it. Simply fill out our callback form here, or contact OnDevs for more information.
