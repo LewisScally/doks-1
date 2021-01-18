@@ -40,21 +40,9 @@ all feautres you see can be tunrned on or off, ability to mute all partiticapnts
 
 Improve, and accelrate your business. From sales process, to internal meetinmgs, the benefits of video are vast.
 
-zoom pricing
 
-BASIC
 
-Personal Meeting
 
-Free
-
-Sign Up, It's Free
-
-Host up to 100 participants
-
-Group meetings for up to 40 minutes
-
-Unlimited one-on-one Meetings
 
 ### Tutorial - It's all in the name
 
@@ -72,7 +60,7 @@ To prevent unwanted guest, navigate to the bottom right of the screen.
 
 Select the settings 'Shield' symbol
 
-*   Select under password, replace 'none' with your chosen password. Anyone attempting to join will now be required to enter a password. 
+*   Select under password, replace 'none' with your chosen password. Anyone attempting to join will now be required to enter a password.
 
 ### Quick Start
 
@@ -102,7 +90,19 @@ See what others have build with Doks. [Showcase →](https://getdoks.org/showcas
 
 ## See business pricing
 
-Find out how to contribute to Doks. [Contributing →](https://getdoks.org/docs/contributing/how-to-contribute/)
+BASIC
+
+Personal Meeting
+
+Free
+
+Sign Up, It's Free
+
+Host up to 100 participants
+
+Group meetings for up to 40 minutes
+
+Unlimited one-on-one Meetings [Contributing →](https://getdoks.org/docs/contributing/how-to-contribute/)
 
 ## Help and support for users
 
