@@ -108,15 +108,15 @@ Social Media Streaming
 
 Large Business
 
-Host up to 300 participants
+*   Host up to 300 participants
 
-Single Sign-On
+*   Single Sign-On
 
-Recording Transcripts
+*   Recording Transcripts
 
-Managed Domains
+*   Managed Domains
 
-Company Branding
+*   Company Branding
 
 Paid Extras
 
@@ -134,7 +134,7 @@ Paid Extras
 
 *   Your own business name, logo, colors, and images.
 
-Still don't see the feature you require? Contact sales, and submit a feature request if it is not listed as a custom paid service. See those below. 
+Still don't see the feature you require? Contact sales, and submit a feature request if it is not listed as a custom paid service. See those below.
 
 ## Custom paid solutions
 
