@@ -32,7 +32,7 @@ can have user access controls
 
 can be embedded with addtional amterials and info like presentations
 
-can be setup on local system or deployed globally 
+can be setup on local system or deployed globally
 
 Ability for particants to raise their hand to speak
 
@@ -46,8 +46,6 @@ BASIC
 
 Personal Meeting
 
-
-
 Free
 
 Sign Up, It's Free
@@ -58,11 +56,23 @@ Group meetings for up to 40 minutes
 
 Unlimited one-on-one Meetings
 
-### Tutorial
+### Tutorial - It's all in the name
 
 {{< alert icon="👉" text="The Tutorial is intended for novice to intermediate users." >}}
 
-Step-by-step instructions on how to start a new Doks project. [Tutorial →](https://getdoks.org/tutorial/introduction/)
+[B](https://getdoks.org/tutorial/introduction/)egin by entering a room name on the home page, and clicking go/hitting enter. 
+
+You are entered into a public access room, by visiting 'www.lchat.co.uk/YOURROOMNAME
+
+You can share this with others and they will automatically be able to join.
+
+To prevent unwanted guest, navigate to the bottom right of the screen.
+
+*   on mobile you may have to tap the screen so that the mobile toolbar appears
+
+Select the settings 'gear' symbol
+
+*   Select 
 
 ### Quick Start
 
