@@ -14,13 +14,10 @@ menu:
 weight: 610
 toc: true
 ---
-
-{{< alert icon="💡" text="Learn more about <a href=\"https://docs.npmjs.com/about-semantic-versioning\">semantic versioning</a> and <a href=\"https://docs.npmjs.com/cli/v6/using-npm/semver#advanced-range-syntax\">advanced range syntax</a>." >}}
+To begin, head to the LChat call page. 
 
 ## Update npm packages
 
-Bump the versions in the `devDependencies` section of `./package.json` to your liking, and run:
-
 ```bash
-npm update
+Once there, under the text, enter your desired meeting name. A quick note here: Make your meeting name unique enough that it will not already be in use (think "ournewmushroomshow" instead of "mushrooms"). Then click "Go." 
 ```
