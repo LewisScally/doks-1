@@ -18,6 +18,6 @@ toc: true
 
 ##### **Once there, under the text, enter your desired meeting name.**
 
-###### \*A quick note here: Make your meeting name unique enough that it will not already be in use (think "ournewmushroomshow" instead of "mushrooms"). \*
+\*A quick note here: Make your meeting name unique enough that it will not already be in use (think "ournewmushroomshow" instead of "mushrooms"). \*
 
-#### Then click "Go."
+Then click "Go."
