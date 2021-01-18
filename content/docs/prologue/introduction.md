@@ -102,15 +102,15 @@ Improve, and accelerate your business. From sales process, to internal meetings,
 
 [C](https://getdoks.org/showcase/neutrino-oscillations/)ustom options and examples
 
-## See business pricing
+## **See business pricing**
 
-BASIC
+
 
 Personal Meeting
 
 Free
 
-Sign Up, It's Free
+No Signup
 
 Host up to 100 participants
 
