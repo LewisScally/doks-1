@@ -54,6 +54,68 @@ P2P mode is only used for 1-to-1 meetings. In this case, audio and video are enc
 
 In the case of multiparty meetings, all audio and video traffic is still encrypted on the network (again, using DTLS-SRTP). Packets are decrypted while traversing Jitsi Videobridge; however, they are never stored in any persistent storage and only live in memory while being routed to othe participants in the meeting.
 
+Comprehensive meetings features in every plan
+
+Features	Description	Jitsi as a Service
+
+Video Experiences
+
+Audio sharing	Users can share system audio in a meeting from a device or browser tab	✓
+
+Bandwidth controls	Users can monitor their connectivity quality and adjust their video bandidth	✓
+
+Configure, enable and disable features	Configure, enable, and disable features to build the experience you want end users to have	✓
+
+Controller mode	The ability for any participant (not just the host) to mute, control volume or remove other participants in meeting	✓
+
+Dominant speaker indication	Indicates who is the dominant speaker at any given point in time	✓
+
+Group chat	Send messages to every video meeting participant	✓
+
+HD Audio	Opus Codec	✓
+
+HD Video	Ability to support 720p video	✓
+
+In-meeting connection indications	Show information about connections status, such as bitrate, packet loss, resolution, frame rate and estimated bandwidth	✓
+
+Phone access to meetings	Call into meetings using 80+ dial in number options (11 toll-free) for 58 countries	✓
+
+Private chat	Send private messages to individuals in a video meeting	✓
+
+Push to talk mode	Mode in which all speakers stay muted unless they press the spacebar key to speak	✓
+
+Raise your hand	Participants can discreetly indicate they have something to say without interrupting the current speaker	✓
+
+Remote desktop control through electron integrations	Control the mouse and keyboard movements of another user remotely through electron integrations	✓
+
+Screen sharing	Share your computer screen and choose which applications or monitors to display	✓
+
+Smart layout	Dynamically control app layout and display based on audio activity. Automatically or manually switch between tile and stage view, automatically focus on any participant and manage screen sharing	✓
+
+Your brand experience	Brand the experience with your company information. No 8x8 or Jitsi branding shown anywhere in the app	✓
+
+YouTube Video Sharing	Users can share a YouTube video for everyone in the conference to see	✓
+
+Meetings as a Service Platform
+
+End-to-End Encryption for video meetings	True end to end encryption even with videobridge for desktop video meetings	✓
+
+GDPR requirements for data processors	GDPR compliant for data processors	✓
+
+Highly available massively scaled global infrastructure	Real-time automatic scaling of compute capacity to ensure the right capacity is always available	✓
+
+HIPAA Compatible	8x8 is HIPAA compatible and can provide a BAA. It is incumbent upon users to operate the technology in a HIPAA compliant manner.	✓
+
+Industry-leading Service Levels	99.99% Platform Uptime SLAs	✓
+
+Localization of interfaces	Record the audio, video, and screen share from a meeting. Save it to reference later or to send to those who could not attend.	✓
+
+Open and industry standard encryption	Encryption using DTLS-SRTP to secure video	✓
+
+Secure passcodes	The ability to set a passcodes to provide an additional layer of security	✓
+
+Webhooks	Configure, enable, and disable features to build the experience you want end users to have
+
 ## Technical Limits
 
 {{< btn-copy text="cd my-doks-site" >}}
