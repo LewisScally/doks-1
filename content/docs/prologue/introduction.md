@@ -34,7 +34,7 @@ toc: true
 
 \-can be setup on local system or deployed globally
 
-\-Ability for particants to raise their hand to speak
+\-Ability for participants to raise their hand to speak
 
 all features you see can be turned on or off, ability to mute all participants, enable ability to kick participant, enable guests or only allowed approved access via email and password login#
 
