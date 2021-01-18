@@ -132,7 +132,7 @@ npm install
 
 ## Test Results - Security
 
-{{< btn-copy text="npm run start" >}}
+{{< btn-copy text="Best in class for security, British based, secure technology, more secure than competitors" >}}
 
 ```bash
 The Most secure way to operate our service is too disable streaming and recording, this is done by default on public access Lchat.co.uk then selecting in the settings 'Enable End to End encryption'
