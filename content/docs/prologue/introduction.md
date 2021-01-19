@@ -1,5 +1,5 @@
 ---
-title: Content to review
+title: Content to review L Chat
 description: >-
   Doks is a Hugo theme helping you build modern documentation websites that are
   secure, fast, and SEO-ready — by default.
