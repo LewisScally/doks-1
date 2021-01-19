@@ -19,8 +19,6 @@ toc: true
 ---
 [![](https://www.ondevs.com/images/OD.png)](https://www.ondevs.com/)[Visit Services](https://www.ondevs.com/features)[View Portfolio](https://www.ondevs.com/portfolio)[Learn More](https://www.ondevs.com/features)[Learn More](https://www.ondevs.com/features)[Contact](https://www.ondevs.com/contact)Don't fill this out if you're human:Email**Subscribe**Static site created by OnDevs. All rights reserved.  
 
-
-
 # [OnDevs](https://www.ondevs.com/)
 
 *   [Home](https://www.ondevs.com/)
@@ -127,10 +125,6 @@ Stay up to date with our latest developments.
 
 *   [Privacy Policy](https://www.ondevs.com/privacy-policy)
 
-
-
-
-
 About page
 
 [![](https://www.ondevs.com/images/OD.png)](https://www.ondevs.com/)Technically gifted, with a core knowledge of marketing, software, and sales. OnDevs Ltd. Founded with the purpose of serving the Financial Industry. Now offering our services to all sectors.Don't fill this out if you're human:Email**Subscribe**Static site created by OnDevs. All rights reserved.  
@@ -153,7 +147,7 @@ About page
 
 # About Us
 
-![](https://www.ondevs.com/images/about.jpg)
+
 
 Origins in Finance. By providing our solutions in order to increase market presence and awareness we were able to generate many leads from enquiries.
 
